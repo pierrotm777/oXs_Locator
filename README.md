@@ -12,7 +12,7 @@ The LORA modules are SX1276/RFM95 that are sall and easily available (e.g. Aliex
   *  [Transmitter](https://github.com/mstrens/oXs_on_RP2040/tree/test)
   *  [Receiver](https://github.com/mstrens/oXs_locator_receiver_on_esp8266)
   
-### How to do your own system
+## How to build your own system
 I created a transmission and reception boards set.  
   *  Transmitter  
      The transmitter uses a RP2040 associated with an RFM95W.  
@@ -25,7 +25,7 @@ I created a transmission and reception boards set.
      The receiver uses an ESP8266 associated with an RFM95W.   
 	 You can find all files [Receiver](https://github.com/pierrotm777/oXs_Locator/tree/main/oXs_EPS8266_Receiver)  
 	 
-#### How to use the Locator system
+## How to use the Locator system
 A full documentation for how to use the system is [here](https://github.com/mstrens/oXs_locator_receiver_on_esp8266)
   
 
