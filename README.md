@@ -1,2 +1,2 @@
-# oXs_RP2040_Locator_transmitter
+# oXs Locator
  GPS Lora Locator
