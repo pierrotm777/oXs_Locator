@@ -18,9 +18,9 @@ I created a transmission and reception set.
      The transmitter uses a RP2040 associated with an RFM95W.  
      I have build two modules:  
      *  The first use a full telemetry system And the Lora system.  
-	    You can find all files [First](https://github.com/pierrotm777/oXs_RP2040_Gps_Baro_Acc_Gyro/tree/main/V1.2)  
+	    You can find all files [First](https://github.com/pierrotm777/oXs_Locator/tree/main/oXs_RP2040_Emitter/Emitter_And_Full_Telemetry)  
      *  The second use a minimal board with only a RP2040 and the Lora system.  
-	    You can find all files [Second](https://github.com/pierrotm777/oXs_Locator/tree/main/oXs_RP2040_Emitter)  
+	    You can find all files [Second](https://github.com/pierrotm777/oXs_Locator/tree/main/oXs_RP2040_Emitter/Emitter_Minimum)  
   *  Receiver  
      The receiver uses an ESP8266 associated with an RFM95W.   
 	 You can find all files [Receiver](https://github.com/pierrotm777/oXs_Locator/tree/main/oXs_EPS8266_Receiver)  
