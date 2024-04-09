@@ -23,7 +23,7 @@ I created a transmission and reception set.
 	    You can find all files [Second](https://github.com/pierrotm777/oXs_Locator/tree/main/oXs_RP2040_Emitter)  
   *  Receiver  
      The receiver uses an ESP8266 associated with an RFM95W.   
-	 You can find all files [First](https://github.com/pierrotm777/oXs_RP2040_Gps_Baro_Acc_Gyro/tree/main/V1.2)  
+	 You can find all files [Receiver](https://github.com/pierrotm777/oXs_Locator/tree/main/oXs_EPS8266_Receiver)  
   
 
 
