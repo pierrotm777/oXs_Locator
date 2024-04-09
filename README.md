@@ -24,6 +24,9 @@ I created a transmission and reception boards set.
   *  Receiver  
      The receiver uses an ESP8266 associated with an RFM95W.   
 	 You can find all files [Receiver](https://github.com/pierrotm777/oXs_Locator/tree/main/oXs_EPS8266_Receiver)  
+	 
+#### How to use the Locator system
+	 A full documentation for how to use the system is [here](https://github.com/mstrens/oXs_locator_receiver_on_esp8266)
   
 
 
