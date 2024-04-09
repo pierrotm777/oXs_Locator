@@ -8,7 +8,7 @@ oXs allows to use a separate connection (with LORA modules) in order to have an 
 This is possible because those modules use a lower frequency, a lower transmitting speed and a special protocol for long range.  
 The LORA modules are SX1276/RFM95 that are sall and easily available (e.g. Aliexpress, ebay, amazon)  
 
-## oXs mstrens github
+## oXs firmware by mstrens
   *  [Transmitter](https://github.com/mstrens/oXs_on_RP2040/tree/test)
   *  [Receiver](https://github.com/mstrens/oXs_locator_receiver_on_esp8266)
   
