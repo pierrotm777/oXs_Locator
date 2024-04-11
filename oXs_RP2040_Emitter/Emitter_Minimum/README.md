@@ -55,7 +55,7 @@ RGB led . . . . . . . . . =   16  (RGB    = 0, 1, 2, ..., 29)
 Logger  . . . . . . . . . =  255  (LOG    = 0, 1, 2, ..., 29)  
 ESC . . . . . . . . . . . =  255  (ESC_PIN= 0, 1, 2, ..., 29)  
 <b>Locator CS  . . . . . . . =   29  (SPI_CS = 0, 1, 2, ..., 29)  
-&emsp;(6 x &nbsp;)SCK . . . . . . . =   14  (SPI_SCK= 10, 14, 26)  
+&emsp;6 x &nbsp;SCK . . . . . . . =   14  (SPI_SCK= 10, 14, 26)  
 &emsp;(6 x &nbsp;)MOSI  . . . . . . =   15  (SPI_MOSI=11, 15, 27)  
 &emsp;(6 x &nbsp;)MISO  . . . . . . =   28  (SPI_MISO=8, 12, 24, 28)</b>  
 Output level High . . . . =  255  (HIGH = 0, 1, 2, ..., 29)  
