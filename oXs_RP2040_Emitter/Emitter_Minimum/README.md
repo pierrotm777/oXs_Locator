@@ -25,11 +25,19 @@ You will find the original firmware [here](https://github.com/mstrens/oXs_on_RP2
 	* Hold the BOOT button on your RP2040 and connect your USB cable  
 	![src](https://github.com/pierrotm777/oXs_Locator/blob/main/oXs_RP2040_Emitter/Emitter_Minimum/RP2040_Upload.png)    
 	Drag oXs.uf2 file into the opened folder  
-	
+
+## Connect your GPS to the RP2040
+Several GPS are usable. I use a UBLOX M8N GPS version.  
+I need to configure baudrate GPS to 9600 bauds.  
+You need to use [Ublox Center](https://www.u-blox.com/en/product/u-center).  
+Connect your GPS (**Tx GPS to RP2040 Tx** and **Rx GPS to Rx RP2040**).  
+![GPS wiring](https://github.com/pierrotm777/oXs_Locator/blob/main/oXs_RP2040_Emitter/Emitter_Minimum/gps_wiring.png)  
+
 ## Configure your RP2040
 You can now use a serial terminal (like putty , the one from arduino IDE, ...)   and set it up for 115200 baud 8N1.  
 
 A Return key give you the oXs module:
+
 
 processing cmd
 
