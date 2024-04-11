@@ -16,10 +16,9 @@ For un minimum Locator Transmitter version see [here](https://github.com/pierrot
 
 ## Upload Firmware
 You will find the original firmware [here](https://github.com/mstrens/oXs_on_RP2040/tree/test)  
-  * Compile with VSCODE
-```
-To do
-```
+  * Compile with own firmware with VSCODE  
+    Follow this [tutorial](https://github.com/mstrens/oXs_on_RP2040#----------software--------------------)  
+	
   * Upload to RP2040  
     * Unzip zip file on your PC  
 	![src](https://github.com/pierrotm777/oXs_Locator/blob/main/oXs_RP2040_Emitter/Emitter_And_Full_Telemetry/oXs_RP2040.png)  
