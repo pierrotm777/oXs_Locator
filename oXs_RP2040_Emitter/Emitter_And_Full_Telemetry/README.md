@@ -24,7 +24,7 @@ To do
     * Unzip zip file on your PC  
 	![src](https://github.com/pierrotm777/oXs_Locator/blob/main/oXs_RP2040_Emitter/Emitter_And_Full_Telemetry/oXs_RP2040.png)  
 	* Hold the BOOT button on your RP2040 and connect your USB cable  
-	![src](https://github.com/pierrotm777/oXs_Locator/blob/main/oXs_RP2040_Emitter/Emitter_And_Full_Telemetry/oXs_RP2040.png)  
+	![src](https://github.com/pierrotm777/oXs_Locator/blob/main/oXs_RP2040_Emitter/Emitter_And_Full_Telemetry/RP2040_Upload.png)  
 	Drag oXs.uf2 file into the opened folder  
 	
 	
