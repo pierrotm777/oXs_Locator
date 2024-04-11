@@ -61,7 +61,7 @@ Output level Low  . . . . =  255  (LOW  = 0, 1, 2, ..., 29)
 
 Esc type is not defined
 
-Protocol is Sport (Frsky)  
+**Protocol is Sport (Frsky)**  
 CRSF baudrate   = 420000  
 Logger baudrate = 115200  
 PWM is generated at = 50 Hz  
