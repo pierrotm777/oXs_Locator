@@ -30,7 +30,7 @@ You will find the original firmware [here](https://github.com/mstrens/oXs_on_RP2
 You can now use a serial terminal (like putty , the one from arduino IDE, ...)   and set it up for 115200 baud 8N1.  
 
 A Return key give you the oXs module:
-```
+
 processing cmd
 
 Version = 2.13.1  
@@ -94,4 +94,4 @@ Gyro is not configured
 No sequencers are defined  
 Config parameters are OK  
 Press ? + Enter to get help about the commands  
-```
+
