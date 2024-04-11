@@ -29,5 +29,9 @@ You will find the original firmware [here](https://github.com/mstrens/oXs_locato
 	* Copy the oXs_locator_receiver folder to your Arduino Sketchbook Location  
 	* Open your Arduino IDE  
 	* Follow the instructions on this [web page](https://github.com/sparkfun/Arduino_Boards) for install ESP8266 boards  
+	* Select LOLIN(WEMOS) D1 R2 & mini board  
+	![src](https://github.com/pierrotm777/oXs_Locator/blob/main/oXs_EPS8266_Receiver/Wemos_D1_mini.png) 
+	* Select your COM port  
+	* Upload to your board  
 	
 	
