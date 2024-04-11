@@ -31,15 +31,18 @@ You can now use a serial terminal (like putty , the one from arduino IDE, ...)  
 
 A Return key give you the oXs module:
 
-<p>The HTML <code>button</code> tag defines a clickable button.</p>
-
+```jsx title="/src/components/HelloCodeTitle.js"
+function HelloCodeTitle(props) {
+  return <h1>Hello, {props.name}</h1>;
+}
+```
 <p>
 <code>
 processing cmd
 
 Version = 2.13.1  
     Function                GPIO  Change entering XXX=yyy (yyy=255 to disable)  
-Primary channels input    =  255  (PRI     = 5, 9, 21, 25)                       
+Primary channels input    =  255  (PRI     = 5, 9, 21, 25)  
 Secondary channels input  =  255  (SEC     = 1, 13, 17, 29)
 Telemetry . . . . . . . . =    8  (TLM     = 0, 1, 2, ..., 29)  
 GPS Rx  . . . . . . . . . =   13  (GPS_RX  = 0, 1, 2, ..., 29)  
