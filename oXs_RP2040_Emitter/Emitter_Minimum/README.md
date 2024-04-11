@@ -33,7 +33,7 @@ A Return key give you the oXs module:
 
 <p>The HTML <code>button</code> tag defines a clickable button.</p>
 
-
+<p>
 <code>
 processing cmd
 
@@ -102,6 +102,6 @@ No sequencers are defined
 Config parameters are OK  
 Press ? + Enter to get help about the commands  
 </code> 
-
+</p>
 
 
