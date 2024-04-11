@@ -15,5 +15,5 @@
 You will find the original firmware [here](https://github.com/mstrens/oXs_locator_receiver_on_esp8266)  
   * How compile with Arduino IDE  
     * Unzip zip file on your PC  
-    * Keep only the *src* folder  
-    * Rename *scr* name by *oXs_locator_receiver_on_esp8266*
+    * Keep only the **src** folder  
+    * Rename **scr** name by **oXs_locator_receiver_on_esp8266**  
