@@ -31,7 +31,9 @@ You can now use a serial terminal (like putty , the one from arduino IDE, ...)  
 
 A Return key give you the oXs module:
 
-```
+
+<p>
+<code>
 processing cmd
 
 Version = 2.13.1  
@@ -59,8 +61,10 @@ ESC . . . . . . . . . . . =  255  (ESC_PIN= 0, 1, 2, ..., 29)
         MISO  . . . . . . =   28  (SPI_MISO=8, 12, 24, 28)</b>  
 Output level High . . . . =  255  (HIGH = 0, 1, 2, ..., 29)  
 Output level Low  . . . . =  255  (LOW  = 0, 1, 2, ..., 29)  
+
 Esc type is not defined
-**Protocol is Sport (Frsky)**  
+
+Protocol is Sport (Frsky)  
 CRSF baudrate   = 420000  
 Logger baudrate = 115200  
 PWM is generated at = 50 Hz  
@@ -91,6 +95,8 @@ Gyro is not configured
 No sequencers are defined  
 Config parameters are OK  
 Press ? + Enter to get help about the commands  
-```
+
+</code> 
+</p>
 
 
