@@ -31,8 +31,8 @@ You can now use a serial terminal (like putty , the one from arduino IDE, ...)  
 
 A Return key give you the oXs module:
 
-<h1>Foo <em>bar
-baz</em></h1>
+<h>Foo <em>bar
+baz</em></h>
 
 
 ```
