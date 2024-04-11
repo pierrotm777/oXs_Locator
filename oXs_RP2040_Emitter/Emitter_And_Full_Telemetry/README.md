@@ -22,16 +22,9 @@ To do
 ```
   * Upload to RP2040  
     * Unzip zip file on your PC  
-	![src](https://github.com/pierrotm777/oXs_Locator/blob/main/oXs_EPS8266_Receiver/source_code.png)  
-    * Keep only the **src** folder  
-    * Rename **scr** name by **oXs_locator_receiver**  
-	* Rename the **oXs_locator_receiver.cpp** by **oXs_locator_receiver_on_esp8266.ino**  
-	* Copy the oXs_locator_receiver folder to your Arduino Sketchbook Location  
-	* Open your Arduino IDE  
-	* Follow the instructions on this [web page](https://github.com/sparkfun/Arduino_Boards) for install ESP8266 boards  
-	* Select LOLIN(WEMOS) D1 R2 & mini board  
-	![src](https://github.com/pierrotm777/oXs_Locator/blob/main/oXs_EPS8266_Receiver/Wemos_D1_mini.png) 
-	* Select your COM port  
-	* Upload to your board  
+	![src](https://github.com/pierrotm777/oXs_Locator/blob/main/oXs_RP2040_Emitter/Emitter_And_Full_Telemetry/oXs_RP2040.png)  
+	* Hold the BOOT button on your RP2040 and connect your USB cable  
+	![src](https://github.com/pierrotm777/oXs_Locator/blob/main/oXs_RP2040_Emitter/Emitter_And_Full_Telemetry/oXs_RP2040.png)  
+	Drag oXs.uf2 file into the opened folder  
 	
 	
