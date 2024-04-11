@@ -31,8 +31,7 @@ You can now use a serial terminal (like putty , the one from arduino IDE, ...)  
 
 A Return key give you the oXs module:
 
-<h>Foo <em>bar
-baz</em></h>
+<p>The HTML <code>button</code> tag defines a clickable button.</p>
 
 
 ```
