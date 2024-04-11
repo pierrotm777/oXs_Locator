@@ -31,7 +31,7 @@ Several GPS are usable. I use a UBLOX M8N GPS version.
 I need to configure baudrate GPS to 9600 bauds.  
 You need to use [Ublox Center](https://www.u-blox.com/en/product/u-center).  
 Connect your GPS (**Tx GPS to RP2040 Tx** and **Rx GPS to Rx RP2040**).  
-![GPS wiring](https://github.com/pierrotm777/oXs_Locator/blob/main/oXs_RP2040_Emitter/Emitter_Minimum/gps_wiring.png)  
+![GPS wiring](https://github.com/pierrotm777/oXs_Locator/blob/main/oXs_RP2040_Emitter/Emitter_Minimum/oXs_RP2040_Locator_transmitter_Minimum.jpg)  
 
 ## Configure your RP2040
 You can now use a serial terminal (like putty , the one from arduino IDE, ...)   and set it up for 115200 baud 8N1.  
