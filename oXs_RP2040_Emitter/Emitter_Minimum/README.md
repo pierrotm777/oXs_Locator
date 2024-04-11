@@ -74,13 +74,13 @@ CRSF baudrate   = 420000
 Logger baudrate = 115200  
 PWM is generated at = 50 Hz  
 Voltage parameters:  
-    Scales : 4.290000 , 50.000000 , 1.000000 , 1.000000  
-    Offsets: 0.000000 , 82500.000000 , 0.000000 , 0.000000  
-    No temperature sensors are connected on V3 and V4  
+&nbsp; &nbsp; &nbsp; &nbsp;Scales : 4.290000 , 50.000000 , 1.000000 , 1.000000  
+&nbsp; &nbsp; &nbsp; &nbsp;Offsets: 0.000000 , 82500.000000 , 0.000000 , 0.000000  
+&nbsp; &nbsp; &nbsp; &nbsp;No temperature sensors are connected on V3 and V4  
 RPM multiplier = 1.000000  
 Baro sensor is not detected  
 Airspeed sensor is not detected  
-    No Vspeed compensation channel defined; oXs uses default settings  
+&nbsp; &nbsp; &nbsp; &nbsp;No Vspeed compensation channel defined; oXs uses default settings  
 First analog to digital sensor is not detected  
 Second analog to digital sensor is not detected  
 Foreseen GPS type is Ublox (configured by oXs) :**GPS is detected but has not (yet) a fix**  
