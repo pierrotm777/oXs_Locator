@@ -40,7 +40,7 @@ Version = 2.13.1
     Function                GPIO  Change entering XXX=yyy (yyy=255 to disable)  
 Primary channels input    =  255  (PRI     = 5, 9, 21, 25)  
 Secondary channels input  =  255  (SEC     = 1, 13, 17, 29)
-<p style="color:red;">Red paragraph text</p>
+<a>Color1 <a style=color:yellow>Color2</a></a>
 <b>Telemetry . . . . . . . . =    8  (TLM     = 0, 1, 2, ..., 29)</b>  
 GPS Rx  . . . . . . . . . =   13  (GPS_RX  = 0, 1, 2, ..., 29)  
 GPS Tx  . . . . . . . . . =   12  (GPS_TX  = 0, 1, 2, ..., 29)
