@@ -32,6 +32,8 @@ You can now use a serial terminal (like putty , the one from arduino IDE, ...)  
 A Return key give you the oXs module:
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
+
+
 <p>
 <code>
 processing cmd
@@ -42,11 +44,11 @@ Primary channels input    =  255  (PRI     = 5, 9, 21, 25)
 Secondary channels input  =  255  (SEC     = 1, 13, 17, 29)
 </code> 
 </p>
-$${\color{red}Telemetry . . . . . . . . =    8  (TLM     = 0, 1, 2, ..., 29)   
-GPS Rx  . . . . . . . . . =   13  (GPS_RX  = 0, 1, 2, ..., 29)  
-GPS Tx  . . . . . . . . . =   12  (GPS_TX  = 0, 1, 2, ..., 29)Red}$$
 <p>
-<code> 
+<code>
+Telemetry . . . . . . . . =    8  (TLM     = 0, 1, 2, ..., 29)   
+GPS Rx  . . . . . . . . . =   13  (GPS_RX  = 0, 1, 2, ..., 29)  
+GPS Tx  . . . . . . . . . =   12  (GPS_TX  = 0, 1, 2, ..., 29)
 Sbus OUT  . . . . . . . . =  255  (SBUS_OUT= 0, 1, 2, ..., 29)  
 RPM   . . . . . . . . . . =  255  (RPM     = 0, 1, 2, ..., 29)  
 SDA (I2C sensors)   . . . . =  255  (SDA     = 2, 6, 10, 14, 18, 22, 26)  
