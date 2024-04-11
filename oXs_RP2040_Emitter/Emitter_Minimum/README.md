@@ -38,7 +38,7 @@ processing cmd
 Version = 2.13.1  
     Function                GPIO  Change entering XXX=yyy (yyy=255 to disable)  
 Primary channels input    =  255  (PRI     = 5, 9, 21, 25)  
-$${\color{green}Secondary channels input  =  255  (SEC     = 1, 13, 17, 29)}$$  
+Secondary channels input  =  255  (SEC     = 1, 13, 17, 29)  
 <b>Telemetry . . . . . . . . =    8  (TLM     = 0, 1, 2, ..., 29)  
 GPS Rx  . . . . . . . . . =   13  (GPS_RX  = 0, 1, 2, ..., 29)  
 GPS Tx  . . . . . . . . . =   12  (GPS_TX  = 0, 1, 2, ..., 29)</b>  
@@ -55,9 +55,9 @@ RGB led . . . . . . . . . =   16  (RGB    = 0, 1, 2, ..., 29)
 Logger  . . . . . . . . . =  255  (LOG    = 0, 1, 2, ..., 29)  
 ESC . . . . . . . . . . . =  255  (ESC_PIN= 0, 1, 2, ..., 29)  
 <b>Locator CS  . . . . . . . =   29  (SPI_CS = 0, 1, 2, ..., 29)  
-________SCK . . . . . . . =   14  (SPI_SCK= 10, 14, 26)  
-________MOSI  . . . . . . =   15  (SPI_MOSI=11, 15, 27)  
-________MISO  . . . . . . =   28  (SPI_MISO=8, 12, 24, 28)</b>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;SCK . . . . . . . =   14  (SPI_SCK= 10, 14, 26)  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;MOSI  . . . . . . =   15  (SPI_MOSI=11, 15, 27)  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;MISO  . . . . . . =   28  (SPI_MISO=8, 12, 24, 28)</b>  
 Output level High . . . . =  255  (HIGH = 0, 1, 2, ..., 29)  
 Output level Low  . . . . =  255  (LOW  = 0, 1, 2, ..., 29)  
 
