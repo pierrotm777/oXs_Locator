@@ -74,32 +74,26 @@ CRSF baudrate   = 420000
 Logger baudrate = 115200  
 PWM is generated at = 50 Hz  
 Voltage parameters:  
-&nbsp; &nbsp; &nbsp; &nbsp;Scales : 4.290000 , 50.000000 , 1.000000 , 1.000000  
-&nbsp; &nbsp; &nbsp; &nbsp;Offsets: 0.000000 , 82500.000000 , 0.000000 , 0.000000  
-&nbsp; &nbsp; &nbsp; &nbsp;No temperature sensors are connected on V3 and V4  
+    Scales : 4.290000 , 50.000000 , 1.000000 , 1.000000  
+    Offsets: 0.000000 , 82500.000000 , 0.000000 , 0.000000  
+    No temperature sensors are connected on V3 and V4  
 RPM multiplier = 1.000000  
-Baro sensor is detected using BMP280 at I2c adress 76  
-&nbsp; &nbsp; &nbsp; &nbsp;Sensitivity min = 100 (at 100)     , max = 300 (at 1000)  
-&nbsp; &nbsp; &nbsp; &nbsp;Hysteresis = 5  
+Baro sensor is not detected  
 Airspeed sensor is not detected  
-&nbsp; &nbsp; &nbsp; &nbsp;No Vspeed compensation channel defined; oXs uses default settings  
-First analog to digital sensor is detected using ads1115  
-&nbsp; &nbsp; &nbsp; &nbsp;Measurement setup: 4 , 5 , 6 ,7  
-&nbsp; &nbsp; &nbsp; &nbsp;Gains: 1 , 1 , 1 ,1  
-&nbsp; &nbsp; &nbsp; &nbsp;Rates: 5 , 5 , 5 ,5  
-&nbsp; &nbsp; &nbsp; &nbsp;Offsets: 0.000000 , 0.000000 , 0.000000 ,0.000000  
-&nbsp; &nbsp; &nbsp; &nbsp;Scales: 1.000000 , 1.000000 , 1.000000 ,1.000000  
-&nbsp; &nbsp; &nbsp; &nbsp;Averaged on: 10 , 10 , 10 ,10  
+    No Vspeed compensation channel defined; oXs uses default settings  
+First analog to digital sensor is not detected  
 Second analog to digital sensor is not detected  
-Foreseen GPS type is Ublox (configured by oXs)   :GPS is not (yet)   detected  
-Led color is inverted  
+Foreseen GPS type is Ublox (configured by oXs) :**GPS is detected but has not (yet) a fix**  
+Led color is normal (not inverted)  
 Failsafe type is HOLD  
-Lora module for locator is not detected  
+Lora module for locator is detected  
 Acc/Gyro is not detected  
 
 Gyro is not configured  
 
 No sequencers are defined  
+
 Config parameters are OK  
 Press ? + Enter to get help about the commands  
+
 
