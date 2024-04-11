@@ -30,9 +30,7 @@ You will find the original firmware [here](https://github.com/mstrens/oXs_on_RP2
 You can now use a serial terminal (like putty , the one from arduino IDE, ...)   and set it up for 115200 baud 8N1.  
 
 A Return key give you the oXs module:
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
-
-
+```
 processing cmd
 
 Version = 2.13.1  
@@ -68,30 +66,32 @@ CRSF baudrate   = 420000
 Logger baudrate = 115200  
 PWM is generated at = 50 Hz  
 Voltage parameters:  
-    Scales : 4.290000 , 50.000000 , 1.000000 , 1.000000  
-    Offsets: 0.000000 , 82500.000000 , 0.000000 , 0.000000  
-    No temperature sensors are connected on V3 and V4  
+&nbsp; &nbsp; &nbsp; &nbsp;Scales : 4.290000 , 50.000000 , 1.000000 , 1.000000  
+&nbsp; &nbsp; &nbsp; &nbsp;Offsets: 0.000000 , 82500.000000 , 0.000000 , 0.000000  
+&nbsp; &nbsp; &nbsp; &nbsp;No temperature sensors are connected on V3 and V4  
 RPM multiplier = 1.000000  
 Baro sensor is detected using BMP280 at I2c adress 76  
-    Sensitivity min = 100 (at 100)     , max = 300 (at 1000)  
-    Hysteresis = 5  
+&nbsp; &nbsp; &nbsp; &nbsp;Sensitivity min = 100 (at 100)     , max = 300 (at 1000)  
+&nbsp; &nbsp; &nbsp; &nbsp;Hysteresis = 5  
 Airspeed sensor is not detected  
-    No Vspeed compensation channel defined; oXs uses default settings  
+&nbsp; &nbsp; &nbsp; &nbsp;No Vspeed compensation channel defined; oXs uses default settings  
 First analog to digital sensor is detected using ads1115  
-    Measurement setup: 4 , 5 , 6 ,7  
-    Gains: 1 , 1 , 1 ,1  
-    Rates: 5 , 5 , 5 ,5  
-    Offsets: 0.000000 , 0.000000 , 0.000000 ,0.000000  
-    Scales: 1.000000 , 1.000000 , 1.000000 ,1.000000  
-    Averaged on: 10 , 10 , 10 ,10  
+&nbsp; &nbsp; &nbsp; &nbsp;Measurement setup: 4 , 5 , 6 ,7  
+&nbsp; &nbsp; &nbsp; &nbsp;Gains: 1 , 1 , 1 ,1  
+&nbsp; &nbsp; &nbsp; &nbsp;Rates: 5 , 5 , 5 ,5  
+&nbsp; &nbsp; &nbsp; &nbsp;Offsets: 0.000000 , 0.000000 , 0.000000 ,0.000000  
+&nbsp; &nbsp; &nbsp; &nbsp;Scales: 1.000000 , 1.000000 , 1.000000 ,1.000000  
+&nbsp; &nbsp; &nbsp; &nbsp;Averaged on: 10 , 10 , 10 ,10  
 Second analog to digital sensor is not detected  
 Foreseen GPS type is Ublox (configured by oXs)   :GPS is not (yet)   detected  
 Led color is inverted  
 Failsafe type is HOLD  
 Lora module for locator is not detected  
 Acc/Gyro is not detected  
+
 Gyro is not configured  
+
 No sequencers are defined  
 Config parameters are OK  
 Press ? + Enter to get help about the commands  
-
+```
