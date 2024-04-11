@@ -35,6 +35,7 @@ A Return key give you the oXs module:
 
 <p>
 <code>
+<samp>
 processing cmd
 
 Version = 2.13.1  
@@ -94,6 +95,7 @@ Gyro is not configured
 No sequencers are defined  
 Config parameters are OK  
 Press ? + Enter to get help about the commands  
+</samp>
 </code> 
 </p>
 
