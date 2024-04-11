@@ -16,7 +16,7 @@ For un minimum Locator Transmitter version see [here](https://github.com/pierrot
 
 ## Upload Firmware
 You will find the original firmware [here](https://github.com/mstrens/oXs_on_RP2040/tree/test)  
-  * Compile with with VSCODE
+  * Compile with VSCODE
 ```
 To do
 ```
