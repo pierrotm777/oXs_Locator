@@ -14,10 +14,13 @@
 ## Upload Firmware
 You will find the original firmware [here](https://github.com/mstrens/oXs_locator_receiver_on_esp8266)  
   * Compile with Platformio (with VSCODE)  
-  ```
-  to do
-  ```
-  * How compile with Arduino IDE  
+    If you are comfortable with Platformio:
+	* Unzip the oXs_locator_receiver_on_esp8266-main.zip  
+	* Open the source code with VSCODE  
+	* Import to Platformio  
+	* Compile and Upload to your ESP8266 board  
+	
+  * Compile with Arduino IDE  
     * Unzip zip file on your PC  
 	![src](https://github.com/pierrotm777/oXs_Locator/blob/main/oXs_EPS8266_Receiver/source_code.png)  
     * Keep only the **src** folder  
