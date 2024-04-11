@@ -36,8 +36,8 @@ Connect your GPS (**Tx GPS to RP2040 Tx** and **Rx GPS to Rx RP2040**).
 ## Configure your RP2040
 You can now use a serial terminal (like putty , the one from arduino IDE, ...)   and set it up for 115200 baud 8N1.  
 
-A **?** key return **HELP** functions.
-A **Return** key give you the **oXs configuration's** module:
+A **?** key return **HELP** functions.  
+A **Return** key give you the **oXs configuration's** module.  
 
 processing cmd
 
