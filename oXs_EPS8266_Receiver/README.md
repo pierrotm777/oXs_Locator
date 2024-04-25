@@ -14,24 +14,8 @@
 ## Upload Firmware
 You will find the original firmware [here](https://github.com/mstrens/oXs_locator_receiver_on_esp8266)  
   * Compile with Platformio (with VSCODE)  
-    If you are comfortable with Platformio:
 	* Unzip the oXs_locator_receiver_on_esp8266-main.zip  
-	* Open the source code with VSCODE  
-	* Import to Platformio  
-	* Compile and Upload to your ESP8266 board  
+	* Follow all instructions [here](https://github.com/mstrens/oXs_locator_receiver_on_esp8266/blob/main/compilation%20of%20oXs%20Locator%20receiver%20using%20ESP8266.pdf)
 	
-  * Compile with Arduino IDE  
-    * Unzip zip file on your PC  
-	![src](https://github.com/pierrotm777/oXs_Locator/blob/main/oXs_EPS8266_Receiver/source_code.png)  
-    * Keep only the **src** folder  
-    * Rename **scr** name by **oXs_locator_receiver**  
-	* Rename the **oXs_locator_receiver.cpp** by **oXs_locator_receiver_on_esp8266.ino**  
-	* Copy the oXs_locator_receiver folder to your Arduino Sketchbook Location  
-	* Open your Arduino IDE  
-	* Follow the instructions on this [web page](https://github.com/sparkfun/Arduino_Boards) for install ESP8266 boards  
-	* Select LOLIN(WEMOS) D1 R2 & mini board  
-	![src](https://github.com/pierrotm777/oXs_Locator/blob/main/oXs_EPS8266_Receiver/Wemos_D1_mini.png) 
-	* Select your COM port  
-	* Upload to your board  
 	
 	
