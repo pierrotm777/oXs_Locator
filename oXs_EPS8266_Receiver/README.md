@@ -15,7 +15,7 @@
 You will find the original firmware [here](https://github.com/mstrens/oXs_locator_receiver_on_esp8266)  
   * Compile with Platformio (with VSCODE)  
 	* Unzip the oXs_locator_receiver_on_esp8266-main.zip  
-	* Follow all instructions [here](https://github.com/mstrens/oXs_locator_receiver_on_esp8266/blob/main/compilation%20of%20oXs%20Locator%20receiver%20using%20ESP8266.pdf)
-	
+	* Follow all instructions [here](https://github.com/mstrens/oXs_locator_receiver_on_esp8266/blob/main/compilation%20of%20oXs%20Locator%20receiver%20using%20ESP8266.pdf)  
+
 	
 	
